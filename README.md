@@ -1,5 +1,5 @@
-I’m currently learning Python, Plone and Django
-<!---
-ArneRiehn/ArneRiehn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there! 👋
+
+Hi, I'm Arne. I mainly work with Plone, but in my free time I also tinker with Linux servers and learn new programming languages as well as frameworks.
+
+- 🧑‍🎓 Currently a junior developer at Interaktiv
